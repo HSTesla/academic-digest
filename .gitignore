@@ -4,6 +4,7 @@ __pycache__/
 .DS_Store
 /seen.json
 /logs/
+/skills/
 .env
 .env.*
 !.env.example
